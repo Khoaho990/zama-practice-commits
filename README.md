@@ -16,3 +16,6 @@ git push
 git add .
 git commit -m "refactor: preparing for fifth commit"
 git push
+git add .
+git commit -m "style: final changes for fifth commit"
+git push
